@@ -11,4 +11,4 @@ void askname(char *first, char *last)
     gets(last); /* buffer overflow? what's that? */
 }
 
-be be be 
+lalala
